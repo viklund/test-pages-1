@@ -2,3 +2,11 @@
 	path = PythonCourse
 	url = https://github.com/NBISweden/PythonCourse.git
 	branch = gh-pages
+[submodule "Rcourse-ht17"]
+	path = Rcourse-ht17
+	url = https://github.com/viklund/Rcourse.git
+	branch = course/ht17
+[submodule "Rcourse-vt17"]
+	path = Rcourse-vt17
+	url = https://github.com/viklund/Rcourse.git
+	branch = course/vt17
