@@ -1,4 +1,4 @@
 [submodule "PythonCourse_vt17"]
 	path = PythonCourse
 	url = https://github.com/NBISweden/PythonCourse.git
-	branch = vt17
+	branch = gh-pages
