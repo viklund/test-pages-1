@@ -1,6 +1,3 @@
-[submodule "sub1"]
-	path = sub1
-	url = https://github.com/viklund/test-pages-sub-1.git
 [submodule "PythonCourse_vt17"]
 	path = PythonCourse-vt17
 	url = https://github.com/NBISweden/PythonCourse.git
