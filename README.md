@@ -2,7 +2,7 @@
 
 ## Courses
 
-New thing
+New thing with less layout.
 
 - [Python Course ht17](PythonCourse/ht17/)
 - [Python Course vt17](PythonCourse/vt17/)
