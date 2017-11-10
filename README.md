@@ -4,4 +4,5 @@
 
 ## Old courses
 
-[Python Course vt17](PythonCourse-vt17/)
+[Python Course ht17](PythonCourse/ht17)
+[Python Course vt17](PythonCourse/vt17)
